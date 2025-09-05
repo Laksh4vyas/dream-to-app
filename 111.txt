@@ -1,0 +1,13 @@
+GEMINI_API_KEY=AIzaSyDtuqVVNkrQD4qzbkUQSfJCDGSar-rL87o
+
+
+
+
+streamlit run dream_to_app.py
+
+
+
+draw a calculator 
+
+
+streamlit run generated_app.py

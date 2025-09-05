@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-08-27_08-53-14",
+    "project": "project_2025-08-27_08-53-14",
+    "idea": "smashkart game",
+    "category": "\ud83c\udfae Games",
+    "multifile": true,
+    "requirements": [
+      "streamlit",
+      "utils"
+    ],
+    "issues": 0,
+    "score": 100
+  },
+  {
+    "timestamp": "2025-08-28_00-50-12",
+    "project": "project_2025-08-28_00-50-12",
+    "idea": "An AI Resume Analyzer that gives job suggestions.",
+    "category": "\ud83d\udcca Dashboards",
+    "multifile": true,
+    "requirements": [
+      "nltk",
+      "pandas",
+      "streamlit",
+      "utils"
+    ],
+    "issues": 0,
+    "score": 100
+  }
+]

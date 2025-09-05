@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": "2025-08-27_00-41-17",
+    "project": "project_2025-08-27_00-41-17",
+    "idea": "snake game",
+    "category": "\ud83c\udfae Games",
+    "multifile": true,
+    "requirements": [
+      "streamlit",
+      "utils"
+    ],
+    "issues": 0,
+    "score": 100
+  }
+]

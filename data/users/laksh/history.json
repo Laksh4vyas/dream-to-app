@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": "2025-09-06_00-20-29",
+    "project": "project_2025-09-06_00-20-29",
+    "idea": "A ToDo List app with login/logout functionality.",
+    "category": "\ud83d\udcc5 Productivity",
+    "multifile": true,
+    "requirements": [
+      "streamlit",
+      "utils"
+    ],
+    "issues": 1,
+    "score": 95
+  }
+]
