@@ -32,21 +32,7 @@ Many people have creative ideas but lack the technical skills to convert them in
 
 ---
 
-## 📷 Snapshots
 
-### 🔑 Login / Signup
-![Login Page](snapshots/login.png)
-
-### 🧠 Idea Input & Project Generation
-![Idea Input](snapshots/idea_input.png)
-
-### 📁 Generated Project Files
-![Project Files](snapshots/project_files.png)
-
-### 🚀 Download Options
-![Download Options](snapshots/download.png)
-
----
 
 ## ⚙️ Installation & Setup
 
